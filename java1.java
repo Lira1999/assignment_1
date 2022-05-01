@@ -8,5 +8,6 @@ public class java1 {
   public static void main(String[] args) {
     System.out.println("java 1 - after conflict");
     System.out.println("modification for branch 1");
+    System.out.println("modification for branch 3");
   }
 }
